@@ -50,3 +50,4 @@ rg -n "kubernetes|terraform|rag|mcp" /Users/amitmishra/temp/ObsidianVault
 - [[networking-service-routing-basics]]
 - [[devops-mcp-control-plane]]
 - [[ai-rag-system-blueprint]]
+- [[ai-learning-free-courses]]
